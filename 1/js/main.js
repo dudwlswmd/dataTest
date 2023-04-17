@@ -3,7 +3,8 @@
 
 
 
-import products from "../../data.json" assert{type:'json'}
+// import products from "../../data.json" assert{type:'json'}
+import products from "https://dudwlswmd.github.io/dataTest/data.json" assert{type:'json'}//절대값으로 바꿈
 //assert{type:'json}-외부파일이 json이라고 확실하게 명시//서버에서만 보인다.
 console.log(products);
 
