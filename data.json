@@ -1,0 +1,124 @@
+
+
+
+
+{
+     "data":[
+          {
+               "id":1,
+               "name":"FLADDRIG 플라드리그_도시락 가방",
+               "img":"https://www.ikea.com/kr/ko/images/products/fladdrig-lunch-bag-striped-multicolour__1158023_pe887964_s5.jpg",
+               "price":1000,
+               "category":"kitchen"
+          },
+          {
+               "id":2,
+               "name":"BARNASINNE 바르나신네",
+               "img":"https://www.ikea.com/kr/ko/images/products/barnasinne-spice-mill-black-white__1114947_pe871876_s5.jpg",
+               "price":5000,
+               "category":"kitchen"
+          },
+                    {
+               "id":3,
+               "name":"ISTAD 이스타드",
+               "img":"https://www.ikea.com/kr/ko/images/products/istad-resealable-bag-patterned-green__1105117_pe868043_s5.jpg",
+               "price":4900,
+               "category":"kitchen"
+          },
+          {
+               "id":4,
+               "name":"청소용 장갑",
+               "img":"https://www.ikea.com/kr/ko/images/products/rinnig-cleaning-gloves-green__0973610_pe812071_s5.jpg?",
+               "price":1900,
+               "category":"kitchen"
+          },
+                    {
+               "id":5,
+               "name":"이케아대가방",
+               "img":"https://www.ikea.com/kr/ko/images/products/frakta-carrier-bag-large-blue__0909114_pe617667_s5.jpg?",
+               "price":1000,
+               "category":""
+          },
+          {
+               "id":6,
+               "name":"수납정리",
+               "img":"https://www.ikea.com/kr/ko/images/products/skubb-box-set-of-6-white__1204330_pe906690_s5.jpg",
+               "price":30000,
+               "category":""
+          },
+          {
+               "id":7, 
+               "name":"RINNIG 린니그",
+               "img":"https://www.ikea.com/kr/ko/images/products/rinnig-dish-drainer-double-sided__0897660_pe682384_s5.jpg",
+               "price":4900,
+               "category":"kitchen"
+          },
+          {
+               "id":8, 
+               "name":"LILLNAGGEN 릴나겐",
+               "img":"https://www.ikea.com/kr/ko/images/products/lillnaggen-squeegee__0711844_pe728517_s5.jpg",
+               "price":2000,
+               "category":"clean"
+          },
+          {
+               "id":9, 
+               "name":"SMYCKA 스뮈카",
+               "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-carnation-white__0903135_pe596691_s5.jpg",
+               "price":1900,
+               "category":"deco"
+          },
+          { 
+               "id":10, 
+               "name":"BINTJE 빈셰",
+               "img":"https://www.ikea.com/kr/ko/images/products/bintje-plant-pot-galvanised__0899418_pe724767_s5.jpg",
+               "price":500,
+               "category":"deco"
+          }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
